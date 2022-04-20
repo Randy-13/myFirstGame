@@ -1,0 +1,5 @@
+D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/NewGame.dir
+D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/NewGame_autogen_timestamp_deps.dir
+D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/NewGame_autogen.dir
