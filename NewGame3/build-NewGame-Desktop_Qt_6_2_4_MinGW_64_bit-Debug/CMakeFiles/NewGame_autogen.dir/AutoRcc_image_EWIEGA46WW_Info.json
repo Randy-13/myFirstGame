@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/NewGame_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/NewGame",
+	"CMAKE_SOURCE_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/NewGame",
+	"INCLUDE_DIR" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/NewGame_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/blank.png",
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/GunTruck.jpeg",
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/GunTruck2.png",
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/black.png",
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/base.png",
+		"D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image/BigTruck.jpeg"
+	],
+	"LOCK_FILE" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/NewGame_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Users/www24/Desktop/QtPro/NewGame/build-NewGame-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/NewGame_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Users/www24/Desktop/QtPro/NewGame/NewGame/image.qrc",
+	"VERBOSITY" : 0
+}
