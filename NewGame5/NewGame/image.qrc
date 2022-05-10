@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/BigTruck.jpeg</file>
+        <file>image/GunTruck.jpeg</file>
+        <file>image/base.png</file>
+        <file>image/blank.png</file>
+        <file>image/GunTruck2.png</file>
+        <file>image/black.png</file>
+        <file>image/soldiers1.png</file>
+        <file>image/Soldier.png</file>
+        <file>image/Thief.jpeg</file>
+        <file>image/Police.png</file>
+        <file>image/green.png</file>
+        <file>image/gray.png</file>
+        <file>image/enemyBase.png</file>
+        <file>image/tower1.png</file>
+        <file>image/tower2.png</file>
+    </qresource>
+</RCC>
